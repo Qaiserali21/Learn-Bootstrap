@@ -7,5 +7,6 @@ Bootstrap Classes
 5) W-100(use for break in rows)
 6) Offset Class
 7) Reordering Class
+8) Nesting Class(in one col you add multiple row or col)
 
 
