@@ -8,5 +8,7 @@ Bootstrap Classes
 6) Offset Class
 7) Reordering Class
 8) Nesting Class(in one col you add multiple row or col)
+9) Margin Classes(ml,mr,mt,mb) Negative Margine(ml-n5, mr-n5, mt-n5, mb-n5,)
+10) Padding Classes(p-5, pl-5, pr-5, pb-5, pt-5)
 
 
