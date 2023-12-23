@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <title>Horizontal Alignment</title>
+</head>
+<style>
+    .container{
+        border: 3px solid black;
+        margin-top: 20px;
+    }
+    .row{
+        border: 3px solid red;
+    }
+    .pink{
+        background: pink;
+    }
+    .blue{
+        background: blue;
+    }
+    .orange{
+        background: orange;
+    }
+    .grey{
+        background: grey;
+    }
+</style>
+<body>
+    <h1>Bootstrap Horizontal Alignment</h1>
+    <div class="container">
+        <div class="row justify-content-around">
+            <div class="col-md-3 orange">
+                <h3>Col 1</h3>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, voluptatem?
+            </div>
+            <div class="col-md-3 blue">
+                <h3>Col 2</h3>
+                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Est, illum.
+            </div>
+            <div class="col-md-3 pink">
+                <h3>Col 3</h3>
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Error, aliquam!
+            </div>
+        </div>
+    </div>
+</body>
+</html>
