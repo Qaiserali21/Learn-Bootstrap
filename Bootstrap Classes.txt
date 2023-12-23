@@ -10,7 +10,11 @@ Bootstrap Classes
 8) Nesting Class(in one col you add multiple row or col)
 9) Margin Classes(ml,mr,mt,mb) Negative Margine(ml-n5, mr-n5, mt-n5, mb-n5,)
 10) Padding Classes(p-5, pl-5, pr-5, pb-5, pt-5)
-11) Horizontal Alignment[(Entered in Row Class)Justify-Content-end, Justify-Content-Center, Justify-Content-around]
-12) Vertical Alignment[(Entered in Row Class) align-items-start, align-items-end, align-items-center, align-items-stretch, align-items-baseline]
+11) Horizontal Alignment Classes [(Entered in Row Class)Justify-Content-end, Justify-Content-Center, Justify-Content-around]
+12) Vertical Alignment Classes [(Entered in Row Class) align-items-start, align-items-end, align-items-center, align-items-stretch, align-items-baseline]
+13) Align Content Classes[(Entered in Row Class) align-content-start, align-content-end, align-content-center, align-content-stretch, align-content-between, align-content-around]
+14) Align Self Classes[(set alignment for each col)align-self-start, align-self-end, align-self-center, align-self-stretch, align-self-baseline, align-self-auto]
+15) Flex Direction Classess[flex-row-reverse, flex-column, flex-column-reverse, flex-wrape, flex-nowrape, flex-wrap-reverse,(Entered in col class)flex-fill]
+
 
 
