@@ -3,8 +3,9 @@ Bootstrap Classes
 1) Container Class
 2) Container-Fluid Class
 3) Row Class
-4)       Col Class(Col-xl, Col-lg, Col-md, Col-sm )
-5)       W-100(use for break in rows)
-6) 
+4) Col Class(Col-xl, Col-lg, Col-md, Col-sm )
+5) W-100(use for break in rows)
+6) Offset Class
+7) Reordering Class
 
 

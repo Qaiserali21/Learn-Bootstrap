@@ -7,26 +7,85 @@
     <title>Grid Col Class</title>
 </head>
 <style>
-    .container{
-        border: 8px solid black;
-        margin-top: 20px;
+    body{
+        background: gray;
+        
     }
-    .row{
-        border: 5px solid yellowgreen;
+    #header{
+        background: orange;
+        padding: 10px;
     }
-    .col{
-        border: 5px solid black;
+    #menu{
+        background: pink;
+        padding: 3px 0px;
+    }
+    #menu ul{
+        list-style: none;
+        margin-bottom: 0px;
+        margin-left: -28px;
+    }
+    #menu ul li{
+        display: inline-block;
+        padding: 3px;
+    }
+    #content{
+        background: white;
+        text-align: justify;
+    }
+    #sidebar{
+        background: lightblue;
+    }
+    #footer{
+        background: orange;
+        text-align: center;
     }
 </style>
 <body>
     <div class="container">
         <div class="row">
-            <div class="col-8">Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, placeat.</div>
-            <div class="col-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita, soluta?</div>
+            <div class="col-12" id="header">
+                <h1>Website Name</h1>
+            </div>
         </div>
         <div class="row">
-            <div class="col-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, placeat.</div>
-            <div class="col-6">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita, soluta?</div>
+            <div class="col" id="menu">
+             <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="">About</a></li>
+                <li><a href="">Gallery</a></li>
+                <li><a href="">Products</a></li>
+                <li><a href="">Contact Us</a></li>
+             </ul>
+        </div> 
+    </div>
+    <div class="row">
+        <div class="col-md-3" id="sidebar">
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="">About</a></li>
+                <li><a href="">Gallery</a></li>
+                <li><a href="">Products</a></li>
+                <li><a href="">Contact Us</a></li>
+             </ul>
+        </div>    
+        <div class="col-md-6" id="content">
+            <h3>Sub Headings</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem voluptates numquam animi alias impedit officiis aut harum deserunt molestiae vero mollitia commodi minus, voluptatibus recusandae quam corrupti libero molestias veritatis optio error nesciunt? Numquam ea beatae quaerat tenetur. Excepturi ipsum nulla dolore, voluptates placeat commodi ratione, omnis pariatur maiores ipsam doloribus architecto cupiditate distinctio, facere libero harum nihil tenetur magni voluptatum dignissimos a recusandae? Dignissimos odit omnis aliquam quidem, maiores recusandae vero, asperiores numquam architecto eum voluptate itaque. Excepturi architecto magnam accusamus amet mollitia vero dolores quas corporis doloribus natus unde quidem corrupti consequatur eos vitae a impedit, tempora illo ipsum deleniti veniam! Pariatur porro dignissimos expedita consequatur tenetur sed ex vero voluptatum veritatis, excepturi, incidunt officia vitae! Nemo praesentium alias quae sit illum labore!</p>
+        </div>
+        <div class="col-md-3" id="sidebar">
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="">About</a></li>
+                    <li><a href="">Gallery</a></li>
+                    <li><a href="">Products</a></li>
+                    <li><a href="">Contact Us</a></li>
+                 </ul>
+            </div>    
+        </div>
+        <div class="row">
+            <div class="col-12" id="footer">
+                @CopyRight 2023.
+            </div>
         </div>
     </div>
 </body>
