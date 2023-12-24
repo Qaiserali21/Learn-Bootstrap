@@ -98,11 +98,12 @@ a:hover{
 }
 
 #testimonial image{
-    border-radius: 50%;
+    border-radius: 60%;
 }
 
 .news-post h3{
     font-size: 1.3rem;
+    margin-top: 3px;
 }
 
 .news-post h3 a{
