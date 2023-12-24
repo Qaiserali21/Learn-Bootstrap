@@ -18,6 +18,7 @@ Bootstrap Classes
 16) Display Classes[d-inline-block, d-lg-inline-block, d-none, d-flex, flex-column]
 17) Float & ClearFix Classes[float-left, float-right, clear-fix, {classes for width & Height}w-25, h-25, w-auto, h-auto{viewport classes}vw-100, vh-100]
 18) Position & OverFlow Classes[position-fixed, fixed-top, fixed-bottom, sticky-top, overflow-auto, overflow-hidden]
+19) Margin & Padding X-axis & Y-axis[py-5, px-5, my-5, mx-5, no-gutters]
 
 
 
