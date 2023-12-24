@@ -16,6 +16,7 @@ Bootstrap Classes
 14) Align Self Classes[(set alignment for each col)align-self-start, align-self-end, align-self-center, align-self-stretch, align-self-baseline, align-self-auto]
 15) Flex Direction Classess[flex-row-reverse, flex-column, flex-column-reverse, flex-wrape, flex-nowrape, flex-wrap-reverse,(Entered only in col class)flex-fill]
 16) Display Classes[d-inline-block, d-lg-inline-block, d-none, d-flex, flex-column]
+17) Float & ClearFix Classes[float-left, float-right, clear-fix, {classes for width & Height}w-25, h-25, w-auto, h-auto{viewport classes}vw-100, vh-100]
 
 
 
