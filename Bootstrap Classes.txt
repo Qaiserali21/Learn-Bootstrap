@@ -23,6 +23,6 @@ Bootstrap Classes
 21) color & bg Color[(text-primary,text-dark,text-danger,text-warning,text-info)(bg-primary,bg-dark,bg-danger,bg-warning,bg-info)]
 22) Text Formating Classes[(text-center,text-justify,text-left,text-right) Text Transform classes(text-uppercase, text-lowercase, text-capitalized) Font Weight Classes(font-weight-bold, font-weight-light, font-weight-lighter) Italic(font-italic) Anchor Tag Classes(text-decoration-none, text-reset{remove for anchor blue color}) Long Text Classes(text-nowrap, text-break, text-truncate)]
 23) Text & List Styling Classes[(list-unstyled, list-inline{list-inline-item}) Font Size Classes(display-1, display-2, display-3, display-4, lead) (blockquote, blockquote-footer) User Select Classes(user-select-all, user-select-auto, user-select-none)] 
-24) Button Classes[(bt bt-colorName, bt bt-outline-colorName) Button Size Classes(btn-lg, btn-sm, btn-block)]
-
+24) Button Classes[(bt bt-colorName, bt bt-outline-colorName) Button Size Classes(btn-lg, btn-sm, btn-block {for diasbled Button use class disabled})]
+25) Button Group Classes[(btn-group{Add Multiple Buttons}) (btn-toolbar){Add Groups in it} Vertical Classes(btn-group-vertical), Group Nesting Botton Classes(data-toggle="dropdown") For dropdown menu(dropdown-mmenu class anchor dropdown-item)]
 
