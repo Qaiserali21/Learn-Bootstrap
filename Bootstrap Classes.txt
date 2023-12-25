@@ -25,4 +25,5 @@ Bootstrap Classes
 23) Text & List Styling Classes[(list-unstyled, list-inline{list-inline-item}) Font Size Classes(display-1, display-2, display-3, display-4, lead) (blockquote, blockquote-footer) User Select Classes(user-select-all, user-select-auto, user-select-none)] 
 24) Button Classes[(bt bt-colorName, bt bt-outline-colorName) Button Size Classes(btn-lg, btn-sm, btn-block {for diasbled Button use class disabled})]
 25) Button Group Classes[(btn-group{Add Multiple Buttons}) (btn-toolbar){Add Groups in it} Vertical Classes(btn-group-vertical), Group Nesting Botton Classes(data-toggle="dropdown") For dropdown menu(dropdown-mmenu class anchor dropdown-item)]
+26) List Group Items Classes[(list-group(remove outer border{list-group-flush}), list-group-item) List Group color classes(list-group-item-colorName) Horizontal Classes(Enter in ul Class{list-group-horizontal with break points{sm|md|lg|xl}}) List Group Links or Buttons({put in anchor or button tag}list-group-item-action)]
 
