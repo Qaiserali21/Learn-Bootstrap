@@ -1,29 +1,55 @@
 Bootstrap Classes
 
-1) Container Class
-2) Container-Fluid Class
-3) Row Class
+1) Container Class(for center container)
+
+2) Container-Fluid Class(for full width container)
+
+3) Row Class(make a row in a container)
+
 4) Col Class(Col-xl, Col-lg, Col-md, Col-sm )
+
 5) W-100(use for break in rows)
+
 6) Offset Class
+
 7) Reordering Class
-8) Nesting Class(in one col you add multiple row or col)
+
+8) Nesting Class(in one col you can add multiple rows or cols)
+
 9) Margin Classes(ml,mr,mt,mb) Negative Margine(ml-n5, mr-n5, mt-n5, mb-n5,)
+
 10) Padding Classes(p-5, pl-5, pr-5, pb-5, pt-5)
+
 11) Horizontal Alignment Classes [(Entered in Row Class)Justify-Content-end, Justify-Content-Center, Justify-Content-around]
+
 12) Vertical Alignment Classes [(Entered in Row Class) align-items-start, align-items-end, align-items-center, align-items-stretch, align-items-baseline]
+
 13) Align Content Classes[(Entered in Row Class) align-content-start, align-content-end, align-content-center, align-content-stretch, align-content-between, align-content-around]
+
 14) Align Self Classes[(set alignment for each col)align-self-start, align-self-end, align-self-center, align-self-stretch, align-self-baseline, align-self-auto]
+
 15) Flex Direction Classes[flex-row-reverse, flex-column, flex-column-reverse, flex-wrape, flex-nowrape, flex-wrap-reverse,(Entered only in col class)flex-fill]
+
 16) Display Classes[d-inline-block, d-lg-inline-block, d-none, d-flex, flex-column]
+
 17) Float & ClearFix Classes[float-left, float-right, clear-fix, {classes for width & Height}w-25, h-25, w-auto, h-auto{viewport classes}vw-100, vh-100]
+
 18) Position & OverFlow Classes[position-fixed, fixed-top, fixed-bottom, sticky-top, overflow-auto, overflow-hidden]
-19) Margin & Padding X-axis & Y-axis[py-5, px-5, my-5, mx-5, no-gutters]
+
+19) Margin & Padding X-axis & Y-axis classes[py-5, px-5, my-5, mx-5, no-gutters]
+
 20) Template Design
+
 21) color & bg Color[(text-primary,text-dark,text-danger,text-warning,text-info)(bg-primary,bg-dark,bg-danger,bg-warning,bg-info)]
+
 22) Text Formating Classes[(text-center,text-justify,text-left,text-right) Text Transform classes(text-uppercase, text-lowercase, text-capitalized) Font Weight Classes(font-weight-bold, font-weight-light, font-weight-lighter) Italic(font-italic) Anchor Tag Classes(text-decoration-none, text-reset{remove for anchor blue color}) Long Text Classes(text-nowrap, text-break, text-truncate)]
-23) Text & List Styling Classes[(list-unstyled, list-inline{list-inline-item}) Font Size Classes(display-1, display-2, display-3, display-4, lead) (blockquote, blockquote-footer) User Select Classes(user-select-all, user-select-auto, user-select-none)] 
+
+23) Text & List Styling Classes[(list-unstyled, list-inline{list-inline-item}) Font Size Classes(display-1, display-2, display-3, display-4, lead) (blockquote, blockquote-footer) User Select Classes(user-select-all, user-select-auto, user-select-none)]
+ 
 24) Button Classes[(bt bt-colorName, bt bt-outline-colorName) Button Size Classes(btn-lg, btn-sm, btn-block {for diasbled Button use class disabled})]
+
 25) Button Group Classes[(btn-group{Add Multiple Buttons}) (btn-toolbar){Add Groups in it} Vertical Classes(btn-group-vertical), Group Nesting Botton Classes(data-toggle="dropdown") For dropdown menu(dropdown-mmenu class anchor dropdown-item)]
+
 26) List Group Items Classes[(list-group(remove outer border{list-group-flush}), list-group-item) List Group color classes(list-group-item-colorName) Horizontal Classes(Enter in ul Class{list-group-horizontal with break points{sm|md|lg|xl}}) List Group Links or Buttons({put in anchor or button tag}list-group-item-action)]
 
+27) Table Classes[(class table) (for dark table{table-dark}), (rows alternative colors{table-striped}), (table head dark{thead-dark}), (Table Hover Class{table-hover}), Table Border remover{table-borderless}, Table Border Classes{table-bordered}, table row color classes{Enter in tr tag(table-colorName),(bg-colorName)} Table Size Classes(table-sm), Table responsivness Classes(table-reponsive-{sm|md|lg|xl})]
