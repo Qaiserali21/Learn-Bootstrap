@@ -53,3 +53,5 @@ Bootstrap Classes
 26) List Group Items Classes[(list-group(remove outer border{list-group-flush}), list-group-item) List Group color classes(list-group-item-colorName) Horizontal Classes(Enter in ul Class{list-group-horizontal with break points{sm|md|lg|xl}}) List Group Links or Buttons({put in anchor or button tag}list-group-item-action)]
 
 27) Table Classes[(class table) (for dark table{table-dark}), (rows alternative colors{table-striped}), (table head dark{thead-dark}), (Table Hover Class{table-hover}), Table Border remover{table-borderless}, Table Border Classes{table-bordered}, table row color classes{Enter in tr tag(table-colorName),(bg-colorName)} Table Size Classes(table-sm), Table responsivness Classes(table-reponsive-{sm|md|lg|xl})]
+
+28) Pagination Classes[use nav for pagination in ul tag(pagination) now in li tag(page-item, active&disabled) now in anchor tag add class(page-link) for pagination size(in ul tag add{pagination-lg & sm}) BreadCrumb Classes(in nav tag use ol with class breadcrumb, in li class enterd breadcrumb-item)]
