@@ -21,6 +21,7 @@ Bootstrap Classes
 19) Margin & Padding X-axis & Y-axis[py-5, px-5, my-5, mx-5, no-gutters]
 20) Template Design
 21) color & bg Color[(text-primary,text-dark,text-danger,text-warning,text-info)(bg-primary,bg-dark,bg-danger,bg-warning,bg-info)]
+22) Text Formating Classes[(text-center,text-justify,text-left) Text Transform classes(text-uppercase, text-lowercase, text-capitalized) Font Weight Classes(font-weight-bold, font-weight-light, font-weight-lighter) Italic(font-italic) Anchor Tag Classes(text-decoration-none, text-reset{remove for anchor blue color}) Long Text Classes(text-nowrap, text-break, text-truncate)] 
 
 
 
