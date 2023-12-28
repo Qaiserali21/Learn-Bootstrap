@@ -18,7 +18,7 @@ Bootstrap Classes
 
 9) Margin Classes(ml,mr,mt,mb) Negative Margine(ml-n5, mr-n5, mt-n5, mb-n5,)
 
-10) Padding Classes(p-5, pl-5, pr-5, pb-5, pt-5)
+10) Padding Classes(p-5, pl-5, pr-5, pb-5, pt-5,py-5,px-5)
 
 11) Horizontal Alignment Classes [(Entered in Row Class)Justify-Content-end, Justify-Content-Center, Justify-Content-around]
 
@@ -32,7 +32,7 @@ Bootstrap Classes
 
 16) Display Classes[d-inline-block, d-lg-inline-block, d-none, d-flex, flex-column]
 
-17) Float & ClearFix Classes[float-left, float-right, clear-fix, {classes for width & Height}w-25, h-25, w-auto, h-auto{viewport classes}vw-100, vh-100]
+17) Float & ClearFix Classes[float-left, float-right, clear-fix, classes for width & Height(w-25, h-25, w-auto, h-auto) viewport classes(vw-100, vh-100)]
 
 18) Position & OverFlow Classes[position-fixed, fixed-top, fixed-bottom, sticky-top, overflow-auto, overflow-hidden]
 
@@ -55,3 +55,5 @@ Bootstrap Classes
 27) Table Classes[(class table) (for dark table{table-dark}), (rows alternative colors{table-striped}), (table head dark{thead-dark}), (Table Hover Class{table-hover}), Table Border remover{table-borderless}, Table Border Classes{table-bordered}, table row color classes{Enter in tr tag(table-colorName),(bg-colorName)} Table Size Classes(table-sm), Table responsivness Classes(table-reponsive-{sm|md|lg|xl})]
 
 28) Pagination Classes[use nav for pagination in ul tag(pagination) now in li tag(page-item, active&disabled) now in anchor tag add class(page-link) for pagination size(in ul tag add{pagination-lg & sm}) BreadCrumb Classes(in nav tag use ol with class breadcrumb, in li class enterd breadcrumb-item)]
+
+29) Bootstrap New Classes Intro[Gutters padding Horizontal & Vertical(gx-size{0-5}, gy-size{0-5})]
