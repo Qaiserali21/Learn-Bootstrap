@@ -56,4 +56,5 @@ Bootstrap Classes
 
 28) Pagination Classes[use nav for pagination in ul tag(pagination) now in li tag(page-item, active&disabled) now in anchor tag add class(page-link) for pagination size(in ul tag add{pagination-lg & sm}) BreadCrumb Classes(in nav tag use ol with class breadcrumb, in li class enterd breadcrumb-item)]
 
-29) Bootstrap New Classes Intro[Gutters padding Horizontal & Vertical(gx-size{0-5}, gy-size{0-5})]
+29) Bootstrap New Classes Intro[Gutters padding Horizontal & Vertical(gx-size{0-5}, gy-size{0-5}) Line Height Classes(lh-1, lh-sm, lh-base, lh-lg) Table Border Classes(border-primary{blue},border-success{green},border-info{light blue},border-warning{yellow},border-danger{red},border-secondary{light grey} Table Align Classes(align-top, align-middle, align-bottom))]
+
