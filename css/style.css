@@ -1,0 +1,42 @@
+.header{
+    background-color: #009efb;
+	left: 0;
+	position: fixed;
+	right: 0;
+	top: 0;
+	z-index: 1039;
+	height: 50px;
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+
+}
+.header .header-left{
+    float: left;
+	height: 50px;
+	padding: 0 30px;
+    margin-left: 30px;
+	position: relative;
+	text-align: center;
+	width: 230px;
+	z-index: 1;
+
+}
+.header .header-left a{
+    text-decoration: none;
+}
+.header .header-right a{
+    color: white;
+    margin-top: 10px;
+    clear: both;
+}
+.logo {
+	align-items: center;
+	display: flex;
+	height: 50px;
+	justify-content: center;
+}
+.logo span {
+	color: #fff;
+	font-size: 18px;
+	font-weight: 500;
+	margin-left: 10px;
+}
